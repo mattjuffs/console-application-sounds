@@ -1,2 +1,2 @@
-# console-application-sounds
+# Console-Application-Sounds
 A Console Application that produces sounds
